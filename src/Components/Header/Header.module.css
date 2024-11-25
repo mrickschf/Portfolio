@@ -178,6 +178,10 @@
   }
 }
 @media screen and (max-width: 500px) {
+  .header-content {
+    margin-bottom: 20px;
+    margin-top: 70px;
+  }
   .header_content h2 {
     font-size: 1.5rem;
     line-height: 2rem;
